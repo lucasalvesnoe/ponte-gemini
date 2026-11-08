@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+state.json
+.DS_Store
+# documentos internos que nao fazem parte do projeto
+dossie-*.html
